@@ -28,7 +28,7 @@ export class Navbar extends Component {
       <div>
         <nav className="navbar fixed-top navbar-expand-lg bg-info" style={{height:'3.5rem'}}>
             <div className="container-fluid">
-                <Link className="navbar-brand" to="/">Prime News</Link>
+                <Link className="navbar-brand" to="/">Around The World</Link>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
                 </button>
@@ -38,7 +38,7 @@ export class Navbar extends Component {
                     <Link className="nav-link " aria-current="page" to="/">Home</Link>
                     </li>
                     <li className="nav-item">
-                    <a className="nav-link" target={'_blank'} href="https://github.com/singh-sambhav" data-bs-toggle="tooltip" data-bs-placement="top" title="About Author" >About us</a>
+                    <a className="nav-link" target={'_blank'} href="https://github.com/Nakul-2001" data-bs-toggle="tooltip" data-bs-placement="top" title="About Author" >About us</a>
                     </li>
                     <li className="nav-item">
                     <Link className="nav-link" to="/business"  >Business</Link>
