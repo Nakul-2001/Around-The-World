@@ -1,0 +1,17 @@
+<a> tag reload the page
+
+navbar(one which has link and to )  must be inside Router component
+news component remount nahi hora tha (updated props ke sath)
+
+route is under routes tag , and element prop for element to be render
+passing key in props of news , helps in re mounting of component
+
+setState method need to await
+to use this.setState method use need to use it in arrow function otherwise bind it in constructor with this
+componentUpdate renders on props change
+
+
+git status
+git init
+git add .
+git commit -m 'first'

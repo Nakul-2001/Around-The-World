@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.abecc93a.js",
+    "static/media/load.gif": "/static/media/load.a94eca4b7fbc77d3c7cf.gif",
+    "index.html": "/index.html",
+    "main.abecc93a.js.map": "/static/js/main.abecc93a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.abecc93a.js"
+  ]
+}
